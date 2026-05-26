@@ -2,5 +2,5 @@
   "admob_ad_status": "on",
   "admob_interstitial_id": "ca-app-pub-4509351412461561/6593930753",
   "admob_interval": "3",
-  "app_update_popup": "off"
+  "app_update_popup": "no"
 }
